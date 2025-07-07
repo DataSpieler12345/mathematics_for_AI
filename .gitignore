@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Salidas de Jupyter
+*.ipynb_checkpoints
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Archivos de sistema macOS
+.DS_Store
